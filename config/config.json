@@ -1,0 +1,14 @@
+{
+    "database": {
+      "host": "localhost",
+      "port": 5432,
+      "user": "postgres",
+      "password": "qwerty",
+      "dbname": "postgres"
+    },
+    "nats": {
+      "stream_name": "ORDERS",
+      "cluster_id": "test-nats",
+      "client_id": "client-123"
+    }
+  }
